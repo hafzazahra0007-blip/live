@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Live Wallpaper</string>
+    <string name="wallpaper_description">High definition 4K live video wallpaper with smooth 60fps hardware accelerated motion.</string>
+</resources>
